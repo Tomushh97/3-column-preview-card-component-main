@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3-column-responsive-card-page-scss-flexbox-1cxOssMBw)
-- Live Site URL: [Add live site URL here](https://festive-brown-ead60e.netlify.app/)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3-column-responsive-card-page-scss-flexbox-1cxOssMBw)
+- Live Site URL: [Netlify](https://festive-brown-ead60e.netlify.app/)
 
 ## My process
 
